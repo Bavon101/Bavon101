@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there {👋 }
+I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡}
+***
+
 - 🌱 I’m currently learning AI && ML on [Udemy](https://www.udemy.com)
 - 💬 Ask me about Algorithms
 - 📫 How to reach me: Via  [email](bavonakumu@gmail.com)
@@ -20,6 +23,7 @@ Here are some ideas to get you started:
 
 <!--[![Bavon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bavon101)](https://github.com/anuraghazra/github-readme-stats)-->
 ### My Continuum { <||> }
+***
 
 ![Bavon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=50)
 
