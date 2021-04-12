@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ![Bavon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=50)
 
+[![Bavon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bavon&count_private=true&show_icons=true&theme=dracula&border_radius=25)](https://github.com/Bavon101/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=50)](https://github.com/Bavon101/github-readme-stats)        
-[![Bavon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bavon&count_private=true&show_icons=true&theme=dracula&border_radius=25)](https://github.com/Bavon101/github-readme-stats)
+
