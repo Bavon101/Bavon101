@@ -2,7 +2,7 @@
 I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡}
 ***
 
-- 🌱 I’m currently learning AI && ML on [Udemy](https://www.udemy.com)
+- 🌱 I’m currently learning AI && ML
 - 💬 Ask me about Algorithms
 - 📫 How to reach me: Via  [email](bavonakumu@gmail.com)
 - ⚡ Fun fact: I'm a [GOT](https://en.wikipedia.org/wiki/Game_of_Thrones) fun
