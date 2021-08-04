@@ -1,6 +1,7 @@
 ### Hi there {👋 }
 I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡}
-***
+
+
 
 - 🌱 I’m currently learning AI && ML
 - 💬 Ask me about Algorithms
@@ -31,11 +32,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=50)](https://github.com/Bavon101/github-readme-stats)        
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-### Listening to 🎧
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### Listening to 🎧 -->
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/wkcjuvn21l73rd5j2isfr87xs)
+<!-- [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/wkcjuvn21l73rd5j2isfr87xs) -->
 
 
-#### Visitors Since epoch 👀
-![Visitor Count](https://profile-counter.glitch.me/{Bavon101}/count.svg)
+<!-- #### Visitors Since epoch 👀
+![Visitor Count](https://profile-counter.glitch.me/{Bavon101}/count.svg) -->
