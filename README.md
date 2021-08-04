@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 ### Listening to 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/wkcjuvn21l73rd5j2isfr87xs)
+
+
+#### Visitors Since epoch 👀
+![Visitor Count](https://profile-counter.glitch.me/{Bavon101}/count.svg)
