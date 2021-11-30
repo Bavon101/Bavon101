@@ -3,10 +3,10 @@ I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡
 
 
 
-- 🌱 I’m currently learning AI && ML
-- 💬 Ask me about Algorithms
-- 📫 How to reach me: Via  [email](bavonakumu@gmail.com)
-- ⚡ Fun fact: I'm a [GOT](https://en.wikipedia.org/wiki/Game_of_Thrones) fun
+<!-- - 🌱 I’m currently learning AI && ML -->
+<!-- - 💬 Ask me about Algorithms -->
+<!-- - 📫 How to reach me: Via  [email](bavonakumu@gmail.com) -->
+<!-- - ⚡ Fun fact: I'm a [GOT](https://en.wikipedia.org/wiki/Game_of_Thrones) fun -->
 <!--
 **Bavon101/Bavon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
