@@ -21,6 +21,11 @@ I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡
 ### Listening to 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/wkcjuvn21l73rd5j2isfr87xs)
+<div align= 'center'>
+<a target="_blank"
+href="https://www.linkedin.com/in/akumu-bavon-335416193/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
+<div/>
 
 
 
