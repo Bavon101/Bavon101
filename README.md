@@ -10,7 +10,7 @@ I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡
 <table>
  
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=20" width=auto height=auto></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=10" width=auto height=auto></td>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bavon&count_private=true&show_icons=true&theme=dracula&border_radius=10g" width=auto height=auto></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavon101&count_private=true&show_icons=true&theme=dark&border_radius=20)" width=auto height=auto></td>
   </tr>
