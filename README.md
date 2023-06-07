@@ -4,8 +4,8 @@ I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡
 
 ### My Continuum { <||> }
 ***
-![Profile views](https://gpvc.arturio.dev/Bavon101)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bavon101) 
+<!-- ![Profile views](https://gpvc.arturio.dev/Bavon101)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bavon101)  -->
 
 <table>
  
