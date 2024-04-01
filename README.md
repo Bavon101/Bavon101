@@ -1,8 +1,7 @@
 ### Hi there {👋 }
-I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡}
+I am Bavon. The me that dwells in the shadows of tomorrow holds knowledge beyond my current grasp. He is the coder I am destined to become, honed by the trials yet to come. {⚡}
 
 
-### My Continuum { <||> }
 ***
 <!-- ![Profile views](https://gpvc.arturio.dev/Bavon101)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bavon101)  -->
@@ -18,7 +17,7 @@ I'm Bavon, Future me knows what I don't , he's a better developer than I am {⚡
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-### Listening to 🎧
+###Listening to 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/wkcjuvn21l73rd5j2isfr87xs)
 <h3 align= 'center'>Let's Connect</h3>
